@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Dark Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 20,
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0
+}
